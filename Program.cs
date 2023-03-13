@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace _1_лаба
 {
-    internal class Program
+        internal class Program
     {
         static void Main(string[] args)
         {
+            Dog dog = new Dog ();
         }
     }
 }
