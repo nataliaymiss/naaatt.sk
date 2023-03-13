@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace _1_лаба
 {
-    internal class Dog
+    public class Dog
     {
+        public string name { get; set; }
+        public string breed { get; set; }
+        public float years { get; set; }
     }
 }
